@@ -18,6 +18,7 @@ requirements = [
     'torchvision',
     'omegaconf',
     'pytorch-lightning-bolts',
+    'wandb'
 ]
 
 setup_requirements = ['pytest-runner', ]
